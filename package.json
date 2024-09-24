@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://{rinnnshinnn}.github.io/{gab-profile}",
+  "homepage": "http://rinnnshinnn.github.io/gab-profile",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{rinnnshinnn}.github.io/{gab-profile}'",
+    "build-gh": "parcel build --public-url 'https://rinnnshinnn.github.io/gab-profile'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
