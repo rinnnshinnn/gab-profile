@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/laptop-1839876_1920.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Open laptop with code on the screen, a notebook, and a phone.";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Etch-a-Sketch Project",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A customizable Etch-a-Sketch project using HTML, CSS, and JavaScript. Includes theme inspired by Attack on Titan.",
+    url: "https://github.com/rinnnshinnn/etch-a-sketch",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Rock-Paper-Scissors Game",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A simple Rock-Paper-Scissors game implemented using HTML and JavaScript. Features a clean and interactive UI.",
+    url: "https://github.com/rinnnshinnn/rock-paper-scissor-webgame",
   },
   {
-    title: "My Resume Site",
+    title: "Calculator Website",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A colorful and vibrant iPhone-style calculator built with HTML, CSS, and JavaScript. Includes support for keyboard input.",
+    url: "https://github.com/rinnnshinnn/calculator",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Survey Form",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A survey form styled with a modern dark theme and enhanced UX/UI experience, designed with a focus on accessibility.",
+    url: "https://github.com/rinnnshinnn/survey-form",
   },
 ];
 
