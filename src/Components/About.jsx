@@ -32,12 +32,17 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "HTML & CSS",
+  "JavaScript",
+  "Responsive Web Design",
+  "Version Control",
+  "Front-End Frameworks",
+  "Back-End Development",
+  "Database Management",
+  "Cross-Browser Compatibility",
+  "Web Performance Optimization",
+  "SEO Best Practices",
+  "User-Centered Design",
 ];
 
 /**
